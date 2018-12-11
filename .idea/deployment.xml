@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Emptor">
+    <serverData>
+      <paths name="Emptor">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html/Emptor" local="$PROJECT_DIR$" web="/public_html/Emptor" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

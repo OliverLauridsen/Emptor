@@ -1,0 +1,1 @@
+<footer><p> Copyright Emptor International Ldt. All rights reserved.</p></footer>
